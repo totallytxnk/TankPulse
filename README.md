@@ -1,4 +1,4 @@
-# TankPulse 🔔
+# TankPulse
 
 > High-throughput Discord event notification engine for GitHub webhooks.
 
