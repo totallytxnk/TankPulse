@@ -245,4 +245,4 @@ redis-cli
 
 ## 📄 License
 
-TankPulse is licensed under the MIT License.
+TankPulse is licensed under the MIT License. See [LICENSE](LICENSE) for details.
